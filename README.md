@@ -1,6 +1,6 @@
 # SM-interview-task
 # Coded by Mateusz Mrózek
-Srodowisko uruchomieniowe na ktorym kod byl pisany to IntelliJ IDEA z pomocą narzędzia automatyzujące budowę Maven. Wersja Javy 11.
+Srodowisko uruchomieniowe na ktorym kod byl pisany to IntelliJ IDEA z pomocą narzędzia automatyzującego budowę Maven. Wersja Javy 11.
 Kod zrodlowy jest podzielony na trzy paczki, model,service i paczkę testową.
 W pierwszej z nich znajduje się klasa "Pair" która jest abstrakcją outputu który mieliśmy zwracać w naszej funkcjonalności wewnątrz streama.
 W paczce service znajdują się : Interfejs "DuplicatesRemoval" z metodą "Stream<Pair> removeTimeDuplicate(InputStream inputStream)" którą jest zadaną funkcjonalnośćią.
