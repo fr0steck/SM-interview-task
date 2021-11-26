@@ -2,7 +2,6 @@ import java.util.Objects;
 
 public final class Pair {
 
-
     private final long unixTime;
     private final int voltage;
 
