@@ -13,5 +13,6 @@ Ostatnia z paczek to paczka testowa "service" w której znajduje się klasa "Tim
   - inputu z wieksza iloscia danych
   Uzyta biblioteka testująca to JUnit.
   
+  Ze względu na wiele pomysłów i idei w jaki sposób to zadanie mogło być rozwiązane mam nadzieje ze sposob jaki przyjalem jest odpowiedni.
   W razie jakichkolwiek pytań lub potrzeby zmiany kodu bardzo proszę o wiadomość :))
   
