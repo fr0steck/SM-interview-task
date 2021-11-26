@@ -7,7 +7,7 @@ W paczce service znajdują się : Interfejs "DuplicatesRemoval" z metodą "Strea
 W paczce tej znajduje się również klasa "TimeDuplicatesRemoval" z implementacją tej metody.
 Ostatnia z paczek to paczka testowa "service" w której znajduje się klasa "TimeDuplicatesRemovalTest" testująca zadaną funkcjonalność w 5 przypadkach testowych dla :
   - inputu podanego w tresci
-  - inputu z pustym plikiem (tutaj git nie chcial spushowac pustego pliku wiec brakuje pliku "packet_data_test2.txt" który jest pusty) 
+  - inputu z pustym plikiem
   - inputu z samymi 1 
   - inputu z samymi 0
   - inputu z wieksza iloscia danych
