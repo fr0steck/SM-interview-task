@@ -1,6 +1,8 @@
 import java.util.Objects;
 
 public final class Pair {
+
+
     private final long unixTime;
     private final int voltage;
 
@@ -28,5 +30,13 @@ public final class Pair {
     @Override
     public int hashCode() {
         return Objects.hash(unixTime, voltage);
+    }
+
+    @Override
+    public String toString() {
+        return "Pair{" +
+                "unixTime=" + unixTime +
+                ", voltage=" + voltage +
+                '}';
     }
 }
